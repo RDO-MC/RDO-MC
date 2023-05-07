@@ -1,4 +1,4 @@
-backticks(
+
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 40" style="background-color: #00000000;" width="510px" height="40px">
     <path id="path0">
         <!-- Single line -->
@@ -9,7 +9,7 @@ backticks(
             Hi, I'm Rivaldo David (RDO-MC)... :D
         </textPath>
     </text>
-</svg>)
+</svg>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdo-mc&label=Profile%20views&color=0e75b6&style=flat" alt="rdo-mc" /> </p>
 
 
