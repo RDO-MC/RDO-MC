@@ -1,4 +1,4 @@
-:pencil: Hola, Hi there 👋,RDO-MC/RDO-MC. :sparkles:
+:pencil: Hi there 👋,RDO-MC/RDO-MC. :sparkles:
 
 
 
