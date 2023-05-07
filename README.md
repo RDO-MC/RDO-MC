@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Perfil Personalizado</title>
-  <style>
-    @keyframes fadeOut {
-      0% { opacity: 1; }
-      100% { opacity: 0; }
-    }
-    #text {
-      animation: fadeOut 3s ease-in-out;
-    }
-  </style>
-</head>
-<body>
-  <h1 id="text">Texto que desaparece en segundos</h1>
-
-  <script>
-    setTimeout(function() {
-      document.getElementById("text").style.display = "none";
-    }, 3000); // Desaparece después de 3 segundos (3000 ms)
-  </script>
-</body>
-</html>
-
-
+hola
 
 
 <!--
