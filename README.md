@@ -1,19 +1,16 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 40" style="background-color: #00000000;" width="510px" height="40px">
-    <path id="path0">
-        <!-- Single line -->
-        <animate id="d0" attributeName="d" begin="0s;d0.end" dur="8000ms" fill="remove" values="m0,20 h0 ; m0,20 h510 ; m0,20 h510 ; m0,20 h0" keyTimes="0;0.7;0.825;1"/>
-    </path>
-    <text font-family="&quot;Iosevka&quot;, monospace" fill="#6791c9" font-size="21" dominant-baseline="auto" x="0%" text-anchor="start">
-        <textPath xlink:href="#path0">
-            Hi, I'm 
-            <tspan fill="#ff0000" dy="-20">Rivaldo David (RDO-MC)</tspan>
-            ...
-            <animate attributeName="startOffset" from="0%" to="100%" dur="5s" repeatCount="indefinite" />
-        </textPath>
-    </text>
-</svg>
-
+ <!-- Profile -->
+  <p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp>
+        <br>
+          <image <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=65C3F7&background=311DFF00&random=false&width=435&lines=Hi%2C+I'm++Rivaldo+David+(RDO-MC)...+%3AD" ></image>  
+        <br>
+      </samp>
+    </p>
+  <p align="right"><strong><samp>」</samp></strong></p>
+  
+  <br>
+  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rdo-mc&label=Profile%20views&color=0e75b6&style=flat" alt="rdo-mc" /></p>
 
 - 🌱 I’m currently learning **Node js**
